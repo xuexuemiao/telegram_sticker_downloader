@@ -15,7 +15,7 @@
     "fs": "^0.0.1-security",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "sharp": "^0.22.1",
+    "sharp": "^0.26.0",
     "winston": "^3.2.1"
   },
   "bin": {
